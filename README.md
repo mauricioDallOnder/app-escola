@@ -10,7 +10,6 @@ Table of contents
 =================
 <p align="center">
  <a href="#-about-this-project">About this project</a> •
- <a href="#-functionalities">Functionalities</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-how-to-run-the-project">How To Run the Project</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -21,37 +20,30 @@ Table of contents
 ## 💻 About this project
 🚀 Script written in React/typescript, intended to search, register and update students.
 
-## ⚙️ Functionalities
-- Users with  basic knowledge of google spreadsheats can implement this functionality in their sheets:
-- Choosing the days of the week to generate.
-- Choosing the start and end date of the period.
-- Choosing holiday dates to exclude from the worksheet.
-- Choosing Saturdays and Sundays that eventually need to enter the generated calendar
-
 ## 🎨 Layout
--Layout was done using google spreadsheets
+-Layout was done using Material UI
 
-<img src="https://storagelonder.w3spaces.com/geradorDias/Screenshot_2022-11-10_at_09.52.25.png" />
+<img src="https://firebasestorage.googleapis.com/v0/b/app-santa-corona.appspot.com/o/Captura%20de%20Tela%202023-03-15%20a%CC%80s%2019.14.21.png?alt=media&token=d7bdb5db-4572-4706-ae46-89d650c09cd1" />
 
-<img src="https://storagelonder.w3spaces.com/geradorDias/Screenshot_2022-11-10_at_10.04.47.png" />
+<img src="https://firebasestorage.googleapis.com/v0/b/app-santa-corona.appspot.com/o/Captura%20de%20Tela%202023-03-15%20a%CC%80s%2019.14.50.png?alt=media&token=5e6c3c05-e0eb-42b3-852c-b4d325b9c5c4" />
 
+<img src="https://firebasestorage.googleapis.com/v0/b/app-santa-corona.appspot.com/o/Captura%20de%20Tela%202023-03-15%20a%CC%80s%2019.15.04.png?alt=media&token=689f727d-8201-42e3-8607-50aa2926991a" />
+
+<img src="https://firebasestorage.googleapis.com/v0/b/app-santa-corona.appspot.com/o/Captura%20de%20Tela%202023-03-15%20a%CC%80s%2019.15.22.png?alt=media&token=5ac05fb3-9194-4f9b-a340-f504d9f23d95"/>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/app-santa-corona.appspot.com/o/Captura%20de%20Tela%202023-03-15%20a%CC%80s%2019.15.31.png?alt=media&token=e60134d8-57d7-44da-9747-788d2086cfb1" />
 
 ## 🚀 How To Run the Project
-This project is divided into parts:
 
-1. Create a new copy of spreadsheats
-2. Create a new project Google App Script
-3. Copy paste the code
-4. Marking with an "x"(LowCase) in the "days of the week" table
-5. Choose the start and end day of classes
+1. Install npm
+2. Install React Hook Form 
+3. Install Material UI
+4. type "npm run dev"
+5. done
 
-#### 🧭 Running the application
-
-- Click on the "day generator" button to generate the days 
-- Click on the "clear data" button to remove the days
 
 ## 🛠 Tecnologias
-JavaScript, GoogleSpreadsheet
+JavaScript/Typescript/Vite/Material UI, GoogleSpreadsheet
 
 ## 🦸 Autor
 -Mauricio Dall Onder
