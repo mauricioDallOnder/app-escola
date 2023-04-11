@@ -23,7 +23,7 @@ Table of contents
 ## 🎨 Layout
 -Layout was done using Material UI
 
-<img src="https://firebasestorage.googleapis.com/v0/b/app-santa-corona.appspot.com/o/Captura%20de%20Tela%202023-03-15%20a%CC%80s%2019.14.21.png?alt=media&token=d7bdb5db-4572-4706-ae46-89d650c09cd1" />
+<img src="https://firebasestorage.googleapis.com/v0/b/mauriciodallonder-64688.appspot.com/o/app-escola.png?alt=media&token=bc824018-e159-4bf8-ad9b-1a896174930a" />
 
 <img src="https://firebasestorage.googleapis.com/v0/b/app-santa-corona.appspot.com/o/Captura%20de%20Tela%202023-03-15%20a%CC%80s%2019.14.50.png?alt=media&token=5e6c3c05-e0eb-42b3-852c-b4d325b9c5c4" />
 
